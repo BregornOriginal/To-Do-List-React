@@ -1,70 +1,87 @@
-# Getting Started with Create React App
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# To-Do-App created with React from Scratch
 
-## Available Scripts
+## In this project I create an App from scratch with CRA.
 
-In the project directory, you can run:
+### This are the features that the project contain.
 
-### `npm start`
+- Setup Working Enviroment
+- Create Class-Based components
+- Create Component Files
+- Enable Strict Mode in React Application
+- Work with data
+- Add State to Class
+- Implement CSS in Reactjs app
+- Persisting React State in Local Storage
+- Lifecycle methods
+- Create Function Component
+- Convert Class-Bassed component to Function Component
+- React hooks
+- Add SVG icons in React
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Live Demo
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+[Live Demo Link]() ---Soon---
 
-### `npm test`
+## Build With
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- RCA (React Create App)
 
-### `npm run build`
+### Technologies
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- HTML 
+- CSS
+- JS ES6
+- React
+- Webpack
+- Babel
+- Jest
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Getting Started
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Press in the right top corner message "code" [![u0xeyJ.th.png](https://i.im.ge/2022/07/05/u0xeyJ.th.png)](https://im.ge/i/u0xeyJ) to clone the project.
 
-### `npm run eject`
+### Prerequisites
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- You need to have a code editor to be able to run the code. [VSCode](https://code.visualstudio.com/download) is most preferred.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Setup
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- Select the method that you want to use for clone.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Install
 
-## Learn More
+- Run it in your code editor
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Usage
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- To install this project, you can run the following command: `npm install`
+- Then to run the server, `npm start`
 
-### Code Splitting
+## Authors
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+👤 **@BregornOriginal**
 
-### Analyzing the Bundle Size
+- GitHub: [@githubhandle](https://github.com/@BregornOriginal)
+- Linkedin: [Julio Miguel Gagliardi](https://www.linkedin.com/in/julio-miguel-gagliardi-b81829197/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## 🤝 Contributing
 
-### Making a Progressive Web App
+Contributions, issues, and feature requests are welcome!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Feel free to check the [issues page](../../issues/).
 
-### Advanced Configuration
+## Show your support
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Give a ⭐️ if you like this project!
 
-### Deployment
+## Acknowledgments
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
 
-### `npm run build` fails to minify
+## 📝 License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project is MIT licensed.
