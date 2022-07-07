@@ -6,9 +6,7 @@ import styles from './TodoItem.module.css';
 const TodoItem = (props) => {
   const [editing, setEditing] = useState(false);
 
-  useEffect(() => () => {
-    console.log('Cleaning up...');
-  }, []);
+  useEffect(() => () => []);
 
   const handleEditing = () => {
     setEditing(true);
