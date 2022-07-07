@@ -22,7 +22,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://62c706d372a62a08aeed7106--glistening-panda-7264af.netlify.app/)
+[Live Demo Link](https://bregorn-to-do-app.netlify.app/)
 
 ## Build With
 
